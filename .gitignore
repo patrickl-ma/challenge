@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+bobyard/.idea
+bobyard/bin
+bobyard/lib
+bobyard/include
+bobyard/pyvenv.cfg
+
 # dependencies
 bobyard-frontend1/node_modules
 /bobyard-frontend1/.pnp
