@@ -11,6 +11,9 @@ bobyard-frontend1/node_modules
 /bobyard-frontend1/.pnp
 .pnp.js
 
+calendar-frontend/node_modules
+nested-children-frontend/node_modules
+
 # testing
 bobyard-frontend1/coverage
 
